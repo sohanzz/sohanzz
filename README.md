@@ -14,14 +14,17 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - :space_invader:&nbsp;
+  ![Kotlin](https://img.shields.io/badge/Kotlin-8048c5?style=for-the-badge&logo=Kotlin&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-316192?style=for-the-badge&logo=java&logoColor=white) 
-  ![Kotlin](https://img.shields.io/badge/Kotlin-8048c5?style=for-the-badge&logo=Kotlin&logoColor=white)  
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+  ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge)
+  
 - ⚡&nbsp;
-![Jetpack Compose Badge](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=fff&style=for-the-badge)
-  ![RxJava](https://img.shields.io/badge/RXJava-e63f92?style=for-the-badge&logo=reactivex&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-f7a212?style=for-the-badge&logo=firebase&logoColor=white)
-  ![Retrofit](https://img.shields.io/badge/Retrofit-48b983?style=for-the-badge&logo=square&logoColor=white)
+  ![Android Badge](https://img.shields.io/badge/Android-34A853?logo=android&logoColor=fff&style=for-the-badge)
+  ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge)
+  ![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge)
+  ![ReactiveX Badge](https://img.shields.io/badge/ReactiveX-B7178C?logo=reactivex&logoColor=fff&style=for-the-badge)
+
 - 📂&nbsp;
   ![Realm](https://img.shields.io/badge/RealmDB-0c1e27?style=for-the-badge&logo=realm&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQLite-006ec0?style=for-the-badge&logo=sqlite&logoColor=white)
