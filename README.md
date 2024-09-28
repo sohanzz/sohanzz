@@ -8,7 +8,7 @@
 ### 🤵 About Me:
 - 🏦 With over 5 years of experience in App Development.
 - 🤓 I primarily work with Java and Kotlin
-- 🌱 I love to tinkle with new technologies 
+- 🌱 I love to tinker with new technologies 
 - 🎮 I love traveling, which enriches my perspective and inspires my work
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
