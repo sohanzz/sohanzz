@@ -6,8 +6,8 @@
 </p>
 
 ### 🤵 About Me:
-- 🏦 With over 5 years of experience in App Development.
-- 🤓 I primarily work with Java and Kotlin
+- 🏦 With over 6 years of experience in Mobile App Development.
+- 🤓 I primarily work with Kotlin
 - 🌱 I love to tinker with new technologies 
 - 🎮 I love traveling, which enriches my perspective and inspires my work
 
@@ -22,8 +22,7 @@
 - ⚡&nbsp;
   ![Android Badge](https://img.shields.io/badge/Android-34A853?logo=android&logoColor=fff&style=for-the-badge)
   ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge)
-  ![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge)
-  ![ReactiveX Badge](https://img.shields.io/badge/ReactiveX-B7178C?logo=reactivex&logoColor=fff&style=for-the-badge)
+
 
 - 📂&nbsp;
   ![Realm](https://img.shields.io/badge/RealmDB-0c1e27?style=for-the-badge&logo=realm&logoColor=white)
