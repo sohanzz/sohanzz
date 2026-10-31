@@ -6,7 +6,7 @@
 </p>
 
 ### 🤵 About Me:
-- 🏦 With over 6 years of experience in Mobile App Development.
+- 🏦 With over 8 years of experience in Mobile App Development.
 - 🤓 I primarily work with Kotlin
 - 🌱 I love to tinker with new technologies 
 - 🎮 I love traveling, which enriches my perspective and inspires my work
